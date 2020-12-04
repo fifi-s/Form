@@ -1,0 +1,34 @@
+body{
+    margin: 7% 15%;
+    background-color: rgb(144, 204, 32);
+}
+.entire-content{
+    background-color: #fff;
+}
+.text{
+    padding: 10%;
+}
+.contact{
+    padding-bottom: 10%;
+}
+.form{
+    padding-top: 15%;
+}
+.last-name{
+    margin-top: 10.5%;
+    color: gray;
+}
+.e-mail{
+    margin: 10% 0 20%;
+    color: gray;
+}
+.message{
+    margin-bottom: 20%;
+    color: gray;
+}
+.send-button{
+    border-radius: 30px;
+    margin: 10% 0 0;
+    padding: 0 43%;
+    box-shadow: 0 8px 16px 0 grey;
+}
